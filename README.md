@@ -8,7 +8,7 @@ This repository contains the Tmux configuration I use on all my systems that is 
 
 ### System
 - version tested
-    + TBC
+    + 2023-08-16 1604H : 3.1c
 
 ### Packages/Plugins
 + Please refer to [plugins](plugins.md) for the full list of plugins/packages used (WIP)
