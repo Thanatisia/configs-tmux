@@ -39,6 +39,10 @@ This repository contains the Tmux configuration I use on all my systems that is 
     cp src/.tmux.conf ~/.tmux.conf
     ```
 
+### Post-Installation
+- To install the plugins
+    + Type '[Prefix] + i' on the first startup
+
 ## Documentations
 ### Contents
 + README.md : This README
